@@ -13,3 +13,5 @@ function basicOp(operation, value1, value2) {
 
 console.log(basicOp('-', 15, 18));
 console.log(basicOp('*', 5, 5));
+
+// switch
